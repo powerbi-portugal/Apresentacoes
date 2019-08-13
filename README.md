@@ -9,3 +9,9 @@
 ## [PBIPT #5 - Customer Cases](PBIPT_5)
 
 ## [PBIPT #6 - Getting Started with Power BI](PBIPT_6)
+
+## [PBIPT #7 - Power Platform 101](PBIPT_7)
+
+## [PBIPT #8 - From Plain to Stunning | M Language](PBIPT_8)
+
+## [PBIPT #9 - Automating Reports with DAX | Dairy Analytics](PBIPT_9)
