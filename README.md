@@ -15,3 +15,5 @@
 ## [PBIPT #8 - From Plain to Stunning | M Language](PBIPT_8)
 
 ## [PBIPT #9 - Automating Reports with DAX | Dairy Analytics](PBIPT_9)
+
+## [PBIPT #19 - Fighting COVID-19 with data and analytics](PBIPT_19)
