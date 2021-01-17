@@ -17,3 +17,5 @@
 ## [PBIPT #9 - Automating Reports with DAX | Dairy Analytics](PBIPT_9)
 
 ## [PBIPT #19 - Fighting COVID-19 with data and analytics](PBIPT_19)
+
+## [PBIPT #28 - Developing a great model in PowerBI](PBIPT_28)
